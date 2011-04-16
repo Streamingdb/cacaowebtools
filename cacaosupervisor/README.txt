@@ -1,11 +1,11 @@
-Cacaosupervisor est un logiciel outils pour cacaoweb, il permet de prendre le contrôle sur son installation et désinstallation.
+Cacaosupervisor est un logiciel outils pour cacaoweb, il permet de prendre le contrÃ´le sur son installation et dÃ©sinstallation.
 
-Pour tous ceux qui ne veulent pas restez en permanence connecté aux réseaux de Cacaoweb !
-Cet outils permet aussi la suppression des traces du logiciel dans votre ordinateur et l'empèche de se lancer au démarrage.
+Pour tous ceux qui ne veulent pas restez en permanence connectÃ© aux rÃ©seaux de Cacaoweb !
+Cet outils permet aussi la suppression des traces du logiciel dans votre ordinateur et l'empÃ¨che de se lancer au dÃ©marrage.
 
-Ils fonctionne par défaut sans lancer Cacaoweb avec votre navigateur par défaut, celui utilisé par Cacaoweb , mais de nombreux modes sont disponible afin de pouvoir l'utilisé avec un navigateur bien particulier. Vous pouvez alors choisir vos paramètres de lancements du navigateur.
+Ils fonctionne par dÃ©faut sans lancer Cacaoweb avec votre navigateur par dÃ©faut, celui utilisÃ© par Cacaoweb , mais de nombreux modes sont disponible afin de pouvoir l'utilisÃ© avec un navigateur bien particulier. Vous pouvez alors choisir vos paramÃ¨tres de lancements du navigateur.
 
-Ce logiciel n'est à utiliser que si vous en ressentez le besoin !!
+Ce logiciel n'est Ã  utiliser que si vous en ressentez le besoin !!
 
 Site Officiel: http:\\cacaosupervisor.free.fr
 
@@ -17,7 +17,7 @@ Pour fonctionner, CacaoSupervisor necessite 3 logiciels tiers:
 site officiel: 
 http://www.westmesatech.com/editv.html 
 
-- ShowConsole.exe est un outils qui permet de cacher/montrer/agrandir/réduire... la fenêtre de l'interpréteur de commandes.
+- ShowConsole.exe est un outils qui permet de cacher/montrer/agrandir/rÃ©duire... la fenÃªtre de l'interprÃ©teur de commandes.
 site officiel: 
 http://ss64.net/westlake/nt/index.html
 
